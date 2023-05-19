@@ -3,7 +3,7 @@ author: "Danushka"
 title: "System Zero — A Proposal for Artificial General Intelligence"
 date: "2020-04-19"
 description: "description"
-tags: []
+tags: ["AI"]
 hideMeta: false
 searchHidden: false
 ShowBreadCrumbs: true
