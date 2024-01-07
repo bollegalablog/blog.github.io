@@ -1,13 +1,13 @@
 ---
 author: "Danushka"
-title: "title"
+title: "A Checklist when writing papers"
 date: "2024-01-07"
 description: "A Checklist when writing papers"
 tags: []
 hideMeta: false
 searchHidden: false
 ShowBreadCrumbs: true
-draft: true
+draft: false
 ---
 
 Here is a list of common errors encountered when revising paper drafts. Please check these when you write papers (before you send them for me to check).
