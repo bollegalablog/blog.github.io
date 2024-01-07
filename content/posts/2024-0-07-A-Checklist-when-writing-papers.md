@@ -1,0 +1,39 @@
+---
+author: "Danushka"
+title: "title"
+date: "2024-01-07"
+description: "A Checklist when writing papers"
+tags: []
+hideMeta: false
+searchHidden: false
+ShowBreadCrumbs: true
+draft: true
+---
+
+Here is a list of common errors encountered when revising paper drafts. Please check these when you write papers (before you send them for me to check).
+
+- Write the abstract first. Think of the keywords that you want to include in the title. Then think of a few candidate titles for your paper. Discuss these with your co-authors.
+
+- Introduction: List up the things that you want to mention in the intro (same goes for all sections). 
+    *   What is the problem?
+    *   Why is it important to solve it?
+    *   What are the challenges?
+    *   How does the proposed method overcome those? (briefly explain the proposed method and give pointers to the corresponding sections in the paper)
+    *   What experiments did you do to evaluate the proposed method? How were the results?
+
+- It is a good practice to end the introduction with a summary of the contributions. The Area Chair (AC) will use that to write a meta-review, if they want to accept your paper. 
+
+- Run a spell-checker
+
+- Use a single ~ (tilde) before \cite command such that you have a space between the opening bracket of a citation reference and the remainder of the sentence.
+
+- Define all acronyms when you use them the first time. Second time onwards use the acronym you already defined. Acronym package is a handy tool for this.
+
+- Check that the font size in your figures are not too small to read. It is a good practice to use the same (or at least similar) font types in your figures as the rest of the paper.
+
+- Provide detailed and informative captions to your figures and tables such that the reader could understand what is shown in the figure/table even without having to read the body text of the paper. (bad example: Figure 1: Overview of the method)
+
+- If you can spend an hour to revise a section, include a figure, a table etc. that would save 5mins of the reviewer/readers time spent on your paper, then do it!
+
+
+
