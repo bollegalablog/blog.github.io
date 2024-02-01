@@ -35,6 +35,8 @@ Here is a list of common errors encountered when revising paper drafts. Please c
 
 - Use table, figure labels that are informative. For example, `tbl1` is a poor choice for referring to a Table (which might not be the first table in the paper after several edits). `tbl:similarity-results` is a better naming, which is more informative.
 
+- A research paper is **not** always about beating the state-of-the-art. A paper does not get accepted just because the experimental results are good (or not good for that matter). It is equally (or more?) important to explain in your paper why the performance is good/bad, for what reasons and what we can learn about the problem or the proposed method via those experiments. Before you start explaining the exact procedure you follow in an experiment, explain **what** you plan to verify/evaluate in an experiment. Without that explanation, the readers (reviewers) will struggle to understand the reasoning behind your experiments. They would not be able to appreciate what you do in your experiments and ultimately the results reported.
+
 - If you can spend an hour to revise a section, include a figure, a table etc. that would save 5mins of the reviewer/readers time spent on your paper, then do it!
 
 
