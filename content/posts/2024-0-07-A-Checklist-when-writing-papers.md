@@ -27,11 +27,13 @@ Here is a list of common errors encountered when revising paper drafts. Please c
 
 - Use a single ~ (tilde) before \cite command such that you have a space between the opening bracket of a citation reference and the remainder of the sentence.
 
-- Define all acronyms when you use them the first time. Second time onwards use the acronym you already defined. Acronym package is a handy tool for this.
+- Define all acronyms when you use them the first time. Second time onwards use the acronym you already defined. [Acronym package](https://ctan.org/pkg/acronym) is a handy tool for this.
 
 - Check that the font size in your figures are not too small to read. It is a good practice to use the same (or at least similar) font types in your figures as the rest of the paper.
 
 - Provide detailed and informative captions to your figures and tables such that the reader could understand what is shown in the figure/table even without having to read the body text of the paper. (bad example: Figure 1: Overview of the method)
+
+- Use table, figure labels that are informative. For example, `tbl1` is a poor choice for referring to a Table (which might not be the first table in the paper after several edits). `tbl:similarity-results` is a better naming, which is more informative.
 
 - If you can spend an hour to revise a section, include a figure, a table etc. that would save 5mins of the reviewer/readers time spent on your paper, then do it!
 
