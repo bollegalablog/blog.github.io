@@ -1,7 +1,7 @@
 ---
 author: "Danushka"
 title: "A Checklist when writing papers"
-date: "2024-01-07"
+date: "2024-02-01"
 description: "A Checklist when writing papers"
 tags: []
 hideMeta: false
