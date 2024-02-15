@@ -35,6 +35,10 @@ Here is a list of common errors encountered when revising paper drafts. Please c
 
 - Use table, figure labels that are informative. For example, `tbl1` is a poor choice for referring to a Table (which might not be the first table in the paper after several edits). `tbl:similarity-results` is a better naming, which is more informative.
 
+- Common word usage mistakes (`like` --> `such as`, `utilise` --> `use`)
+  
+- If you are performing any statistical significance tests to check whether your proposed method is `significantly` outperforms a previously proposed method (or a baseline), remember to mention the level of significane (i.e. alpha < 0.01 or 0.05 etc.) (or alternatively the confidence levels corresponding to 99% or 95%) as well as the name of the test you performed. If you do not do any statistical significance tests then do not mention the term `significant` in the paper.
+
 - If you can spend an hour to revise a section, include a figure, a table etc. that would save 5mins of the reviewer/readers time spent on your paper, then do it!
 
 
