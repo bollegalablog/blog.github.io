@@ -11,7 +11,7 @@ draft: false
 ---
 
 The following is a list of common errors encountered when revising paper drafts. Please check these when you write papers (before you send them for me to check).
-This article was originally intended to my students by I think it can be useful for a wider audience and sharing it publicly here. 
+This article was originally intended for my students by I think it can be useful for a wider audience and sharing it publicly here. 
 Hope you find it useful too.
 
 - Write the abstract first. Think of the keywords that you want to include in the title. Then think of a few candidate titles for your paper. Discuss these with your co-authors.
