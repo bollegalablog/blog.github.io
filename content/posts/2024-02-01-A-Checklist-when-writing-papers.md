@@ -10,7 +10,9 @@ ShowBreadCrumbs: true
 draft: false
 ---
 
-Here is a list of common errors encountered when revising paper drafts. Please check these when you write papers (before you send them for me to check).
+The following is a list of common errors encountered when revising paper drafts. Please check these when you write papers (before you send them for me to check).
+This article was originally intended to my students by I think it can be useful for a wider audience and sharing it publicly here. 
+Hope you find it useful too.
 
 - Write the abstract first. Think of the keywords that you want to include in the title. Then think of a few candidate titles for your paper. Discuss these with your co-authors.
 
@@ -35,7 +37,9 @@ Here is a list of common errors encountered when revising paper drafts. Please c
 
 - Use table, figure labels that are informative. For example, `tbl1` is a poor choice for referring to a Table (which might not be the first table in the paper after several edits). `tbl:similarity-results` is a better naming, which is more informative.
 
-- Common word usage mistakes (`like` --> `such as`, `utilise` --> `use`)
+- Common word usage mistakes (`like` --> `such as`, `utilise` --> `use`, `employ` --> `use`)
+
+- In English, the ordering of the adjectives matter. See https://www.grammarly.com/blog/adjective-order/ and use the correct ordering (e.g. `three small red dots` is correct, while `small red three dots` sounds very odd.)
   
 - If you are performing any statistical significance tests to check whether your proposed method is `significantly` outperforms a previously proposed method (or a baseline), remember to mention the level of significane (i.e. alpha < 0.01 or 0.05 etc.) (or alternatively the confidence levels corresponding to 99% or 95%) as well as the name of the test you performed. If you do not do any statistical significance tests then do not mention the term `significant` in the paper.
 
