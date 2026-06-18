@@ -77,7 +77,7 @@ params:
     author: Danushka
     # author: ["Me", "You"] # multiple authors
 
-    defaultTheme: auto
+    defaultTheme: light
     # disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
