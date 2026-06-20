@@ -17,7 +17,7 @@ What do we do when we are lost? -- We create *maps*!
 
 Following this spirit, we build a **map of sentence encoders** to visualise their landscape, reflecting the behavioural relationships among 1,101 encoder models. I will present this work at ACL 2026 main conference (oral session) on 5th of July,  In this article, I will provide a slightly less technical and more intuitive narration of the idea.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/4zzxpyxfBCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/erx8beOH-LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 Lets then get lost in the land of LLM encoders, shall we?
