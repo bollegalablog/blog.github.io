@@ -4,6 +4,9 @@ title: "Map of Sentence Encoders"
 date: "2026-06-18"
 description: "This article covers our ACL 2026 paper that uses Quantum Relative Entropy for creating a map of encoders."
 tags: ["NLP","ML","Research"]
+cover:
+  image: "/images/model_clusters_size.png"
+  alt: "Map of 1101 sentence encoders"
 hideMeta: false
 searchHidden: false
 ShowBreadCrumbs: true
