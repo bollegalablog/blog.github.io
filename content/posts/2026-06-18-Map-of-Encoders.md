@@ -12,7 +12,7 @@ searchHidden: false
 ShowBreadCrumbs: true
 ---
 
-[![ACL-2026 Paper](https://img.shields.io/badge/ACL--2026_Paper-blue?style=for-the-badge)](https://danushka.net/papers/ACL-2026-MoE.pdf)  [![Code](https://img.shields.io/badge/Code-LivNLP/Map--of--Encoders-green?style=for-the-badge&logo=github)](https://github.com/LivNLP/Map-of-Encoders)
+[![ACL-2026 Paper](https://img.shields.io/badge/ACL--2026_Paper-blue?style=for-the-badge)](https://aclanthology.org/2026.acl-long.645/)  [![Code](https://img.shields.io/badge/Code-LivNLP/Map--of--Encoders-green?style=for-the-badge&logo=github)](https://github.com/LivNLP/Map-of-Encoders)
 
 Large Language Models (LLMs) have already revolutionised the way we process text. It is no longer a question of *whether we should use an LLM in an NLP application?* but rather *which one to use?* The selection is vast and new models pop-up everyday, which makes it extremely difficult to keep up with the progress in the field. *How is this new model different from (or similar to) the other ones?*, *how likely it will give a different (possibly better) performance on the task that I am interested in?* are the type of questions/decisions that practitioner are faced with in modern-day research and development scenarios. We are practically lost in this vast space of LLMs.
 
