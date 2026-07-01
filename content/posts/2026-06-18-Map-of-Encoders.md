@@ -69,7 +69,7 @@ OK. That depicts a gloomy picture. 😭  but do not worry... **quantum informati
 Before we dive into the quantum version, lets revisit the more familiar cousin in the NLP domain -- *relative entropy* (aka. KL-divergence). If we had probability distributions instead of PIP matrices representing our encoders, then we could measure distance (technically it is divergence and not distance) using KL-divergence. Luckily for us, there is an extension of it that can be applied to density matrices given as follows:
 
 It is worth taking a moment to look at this equation, which defines the Quantum Relative Entropy (QRE), $S(\mathbf{\rho} \Vert \mathbf{\sigma})$ between two density matrices $\mathbf{\rho}$ and $\mathbf{\sigma}$. Density matrices are obtained by simply dividing the corresponding PIP matrix by its trace, akin to normalising histograms such that they become calibrated probability distributions that adds up to one.
-$$S(\mathbf{\rho} \Vert \mathbf{\sigma}) = \mathrm{Tr}(\mathbf{}{\rho} \ln \mathbf{\rho}) - \mathrm{Tr} (\mathbf{\rho} \ln \mathbf{\sigma})$$
+$$S(\mathbf{\rho} \Vert \mathbf{\sigma}) = \mathrm{Tr}(\mathbf{\rho} \ln \mathbf{\rho}) - \mathrm{Tr}(\mathbf{\rho} \ln \mathbf{\sigma})$$
 The first term is very similar to the self-entropy term in KL-divergence (and indeed known as the Shanon entropy), whereas the second term corresponds to the cross-entropy between the two density matrices. One important caveat here is that the logarithms (ln) are taken not in an elementwise manner but over the eigenvalues of the density matrices.
 
 In theory, we have a divergence measure between two PIP matrices (by extension the encoders corresponding to those PIP matrices), so we have solved the comparison challenge! 🎉 
